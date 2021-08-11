@@ -1,5 +1,5 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-misc
-modules
+misc.xml
+modules.xml
