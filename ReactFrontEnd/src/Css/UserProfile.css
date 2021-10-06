@@ -1,0 +1,26 @@
+.rootcontainer {
+  /* border: 3px solid #000000; */
+  flex: 1;
+}
+
+.image {
+  width: 97vw;
+  height: 50vh;
+
+  margin-left: 15px;
+}
+
+.profileimage {
+  border-radius: 50%;
+  width: 25vw;
+  height: 45vh;
+
+  margin-top: -200px;
+}
+
+.container {
+  display: flex;
+
+  flex-direction: row;
+  justify-content: center;
+}
